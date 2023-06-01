@@ -648,8 +648,8 @@ Videos so far:
 
 
 
-* Video 10-1:
-* Video 10-2:
+* Video 10-1:Zohar Asulin
+* Video 10-2:Zohar Asulin
 
 ## Session 11 2023.06.08 12:15-14:30
 
